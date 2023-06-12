@@ -1,0 +1,16 @@
+h1{
+    color:	DarkMagenta;
+	font-family:Consolas,Broadway ; 
+	font-size: 30px; 
+}
+span{color: rgb(255, 0, 255);}
+.pozadina2{
+    background-color: Lavender;
+}
+a{
+	font-family:Goudy Type;
+	color: indigo;
+}
+img{
+    height: 200px;
+}

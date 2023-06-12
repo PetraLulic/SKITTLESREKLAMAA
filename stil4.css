@@ -1,0 +1,16 @@
+p{
+	color:black;
+	font-family: Bookshelf Symbol 7, Arial,Candara Light, Corbel Light; 
+	font-size:16px;
+}
+
+
+h1{
+    color:OrangeRed;
+	font-family:  Arial, Georgia; 
+	font-size: 30px; 	
+}
+span{color: rgb(255, 0, 255);}
+.pozadina4{
+    background-image: url("slike/987.jpg");
+    background-color: darkcyan;
